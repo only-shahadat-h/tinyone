@@ -92,6 +92,9 @@
 .c_icon ul li a i{
     font-size: 35px;
 }
+footer{
+    padding-bottom: 70px;
+}
 .f_1{
     text-align: center; 
 }
@@ -194,6 +197,14 @@
 footer{
     padding-bottom: 70px;
 }
+.f_1{
+    text-align: center; 
+}
+.f_2{
+    text-align: center;
+    margin-top: 40px;
+}
+
 
 }
 /*  Medium devices (tablets, 768px and up) */
